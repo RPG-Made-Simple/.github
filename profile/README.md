@@ -27,7 +27,7 @@ Since Foundry always requires a little bit more from the GMs, we strongly believ
 
 ---
 ### 📃 LICENSE
-All our modules, **are** and will **always** be licensed under the [**MIT**]() license, so anyone can use them, contribute or even continue our work if we cease to work on them.
+All our modules, **are** and will **always** be licensed under the [**MIT**](https://github.com/RPG-Made-Simple/.github/blob/main/LICENSE) license, so anyone can use them, contribute or even continue our work if we cease to work on them.
 
 ---
 _We make it simple for you_
