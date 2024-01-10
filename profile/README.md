@@ -2,7 +2,7 @@
 
 > _The organization icon is just a placeholder_ 🤫
 
-This organization is a collection of modules made for [FoundryVTT](), initiated by [ZotyDev](), and being maintained by me only.
+This organization is a collection of modules made for [FoundryVTT](https://foundryvtt.com/), initiated by [ZotyDev](https://github.com/ZotyDev), and being maintained by me only.
 
 ---
 ### 🎲 Our Goal
@@ -15,7 +15,7 @@ Since Foundry always requires a little bit more from the GMs, we strongly believ
 - Update modules for **Free**
 - Provide you with support when we have enough time, for **Free**
 - Listen for suggestions and requests, for **Free**
-- Accept [**donations**]() 💸 _if you feel like we deserve it_ 😁
+- Accept [**donations**](https://ko-fi.com/zotydev) 💸 _if you feel like we deserve it_ 😁
 
 > But we don't want your donations without offering something for that, if you donate you get **access to special polls that decide the next major updates and modules that will be released!**
 
